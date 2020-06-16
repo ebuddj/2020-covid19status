@@ -4,7 +4,7 @@
 
 ## Status of Covid-19 restrictions
 
-The data is only up-to-date with the general overview of the country. The other columns have not been updated, as the whole thing has been changing so quickly, it’s hard to be 100% accurate with everything at all times. 
+The data is only up-to-date with the general overview of the country "Statut". The other columns have not been updated, as the whole thing has been changing so quickly.
 
 **Data**
 * [Download from Google Drive](https://drive.google.com/file/d/1iw6xiXjobMvdrZvGVGoYHBSvnKAHMKkr/view?usp=sharing_eip&invite=CO3F8K0G&ts=5ee766f6) updated: 2020-06-16
