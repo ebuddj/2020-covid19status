@@ -6,11 +6,13 @@
 
 The data is only up-to-date with the general overview of the country "Statut". The other columns have not been updated, as the whole thing has been changing so quickly.
 
+**If members were to use the video they are kindly asked to use the version with F24 logo included.** 
+
 **Data**
-* [Download from Google Drive](https://drive.google.com/file/d/1iw6xiXjobMvdrZvGVGoYHBSvnKAHMKkr/view?usp=sharing_eip&invite=CO3F8K0G&ts=5ee766f6) updated: 2020-06-16
+* [Download from Google Drive](https://drive.google.com/file/d/1iw6xiXjobMvdrZvGVGoYHBSvnKAHMKkr/view?usp=sharing_eip&invite=CO3F8K0G&ts=5ee766f6) updated: 2020-06-18
 
 **Video**
-* [Download from Sharepoint](https://francemm-my.sharepoint.com/:f:/p/julien_monel/Ejw5oTKaJqRJvTG4JPCPAO8BCO1W_3j_UvCX24wA0OIWYA) updated: 2020-06-16
+* [Download from Sharepoint](https://francemm-my.sharepoint.com/:f:/p/julien_monel/Ejw5oTKaJqRJvTG4JPCPAO8BCO1W_3j_UvCX24wA0OIWYA) updated: 2020-06-18
 
 ## How to use
 
